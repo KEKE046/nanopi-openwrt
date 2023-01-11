@@ -43,3 +43,12 @@ CONFIG_DRIVER_11N_SUPPORT=y
 CONFIG_DRIVER_11W_SUPPORT=y
 
 CONFIG_PACKAGE_luci-app-oled=y
+
+CONFIG_PACKAGE_iptables-mod-geoip=y
+CONFIG_PACKAGE_mtr=y
+CONFIG_PACKAGE_kmod-ipt-geoip=y
+CONFIG_PACKAGE_hysteria=y
+CONFIG_PACKAGE_kcptun-client=y
+CONFIG_PACKAGE_kmod-wireguard=y
+CONFIG_PACKAGE_wireguard-tools=y
+CONFIG_PACKAGE_luci-app-wireguard=y
